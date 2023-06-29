@@ -1,4 +1,5 @@
 ### Hi there 👋
+Just wanna say thanks for all the support, I will add more feautures soon!
 
 <!--
 **StuckInPlace/stuckinplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
