@@ -4,13 +4,13 @@ var password = "Hhcfj4pd";
 var github = "https://github.com/advancedfx/advancedfx/releases/tag/v2.146.0";
 var email = 'mailto:billyollech@gmail.com';
 var discord = "https://discord.gg/proxyboost";
-var cash = "https://www.paypal.com/donate/?hosted_button_id=Q5M5RQS26YV7C";
+var cash = "https://www.paypal.com/donate/?hosted_button_id=5HDVT6LP6K6S2";
 var bitcoin = "bitcoin:1K7S67iJVtGBGc17UiCp9xwZ3xnPfPxvrE"
 var ethereum = "ethereum:0xAc18d9A4Bc75eA3E7d255f11f27D82872ea6FCfc@1"
 
 whois = [
   "<br>",
-  "Hi I am Sip , I am a webdeveloper",
+  "Hi I am neo , I am a webdeveloper",
   
   "<br>"
 ];
@@ -23,8 +23,8 @@ whoami = [
 
 social = [
   "<br>",
-  'discord         <a href="' + discord + '" target="_blank">discord/stuckinplace' + "</a>",
-  'github         <a href="' + github + '" target="_blank">github/stuckinplace' + "</a>",
+  'discord         <a href="' + discord + '" target="_blank">discord/neo' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/neo' + "</a>",
   "<br>"
 ];
 
@@ -32,7 +32,7 @@ social = [
 
 donate = [
     "<br>",
-    'Cash         <a href="' + cash + '" target="_blank">sendcash/stuckinplace' + "</a>",
+    'Cash         <a href="' + cash + '" target="_blank">sendcash/neo' + "</a>",
     'Bitcoin         <a href="' + bitcoin + '" target="_blank">bitcoin/wallet' + "</a>",
     'Ethereum         <a href="' + ethereum + '" target="_blank">ethereum/wallet' + "</a>",
     "<br>"
@@ -47,13 +47,13 @@ secret = [
 
 projects = [
   "<br>",
-  "Most Projects are on Github, name: StuckInPlace",
+  "Most Projects are on Github, name: 00neo",
   "<br>"
 ];
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          StuckInPlace?',
+  '<span class="command">whois</span>          neo?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">donatef</span>        All future you will get while donating',
   '<span class="command">social</span>         Display social networks',
@@ -69,15 +69,15 @@ help = [
 ];
 
 banner = [
-  '<span class="index">Stuck In Place (SIP) W</span>',
+  '<span class="index">Connection:..neo-terminal...successfull </span>',
   "         ___   ____",
   "       /' --;^/ ,-_\\     \\ | /       ",
   "      / / --o\\ o-\\ \\\\   --(_)--   ",
-  "     /-/-/|o|-|\\-\\\\|\\\\   / | \\          _____ ________   ",
-  "      '`  ` |-|   `` '                 / ___//  _/ __ \ ",
-  "            |-|                        \__ \ / // /_/ / ",
-  "            |-|O                      ___/ // // ____/  ",
-  "            |-(\\,__                  /____/___/_/       ",
+  "     /-/-/|o|-|\\-\\\\|\\\\   / | \\           ",
+  "      '`  ` |-|   `` '                ",
+  "            |-|                       ",
+  "            |-|O                        ",
+  "            |-(\\,__                 ",
   "         ...|-|\\--,\\_....                                                ",
   "      ,;;;;;;;;;;;;;;;;;;;;;;;;,.   ",
   "~~,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
