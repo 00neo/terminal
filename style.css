@@ -4,18 +4,19 @@ body {
     min-height: 99%;
     width: 100%;
     min-width: 550px;
-    color: #519975;
+    color: #18ff03;
+    text-shadow: 0 0 5px #18ff03;
     background: #211D1B;
     font-family: cursor, monospace;
     overflow-x: hidden;
   }
   ::selection {
     color: #211830;
-    background-color: #519975;
+    background-color: #ffffff;
   }
   ::-moz-selection {
     color: #211830;
-    background-color: #519975;
+    background-color: #ffffff;
   }
   textarea {
     left: -1000px;
@@ -28,8 +29,8 @@ body {
   /* Cursor Start */
   .cursor {
     font-size: 12px;
-    color: #73ABAD;
-    background-color: #73ABAD;
+    color: #ffffff;
+    background-color: #ffffff;
     position: relative;
     opacity: 1;
     height: 1.5em;
@@ -50,7 +51,8 @@ body {
   #command {
     cursor: text;
     height: 50px;
-    color: #73ABAD;
+    color: #18ff03;
+    text-shadow: 0 0 5px #18ff03; 
   }
   #liner {
     line-height: 1.3em;
@@ -60,8 +62,8 @@ body {
     opacity: 0;
   }
   #liner::before {
-    color: #519975;
-    content: "stuckInplace:~$";
+    color:#18ff03;
+    content: "here:";
   }
   #liner.password::before {
     content: "Password:";
@@ -100,14 +102,14 @@ body {
     }
   }
   .index {
-    color: #DCDCCC;
+    color: #18ff03;
   }
   .color2 {
-    color: #B89076;
+    color: #18ff03;
   }
   .command {
-    color: #73ABAD;
-    text-shadow: 0 0 5px #73ABAD; 
+    color: #18ff03;
+    text-shadow: 0 0 5px #18ff03; 
   }
   .error {
     color: #B89076;
@@ -123,7 +125,7 @@ body {
     text-decoration: inherit;
   }
   a:hover {
-    background: #73ABAD;
+    background: #ffffff;
     color: #211830;
   }
   a:focus {
