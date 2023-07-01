@@ -55,7 +55,7 @@ help = [
   "<br>",
   '<span class="command">whois</span>          neo?',
   '<span class="command">whoami</span>         Who are you?',
-  '<span class="command">donatef</span>        All future you will get while donating',
+  '<span class="command">donatef</span>        All features you will get while donating',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">donate</span>         Donate cash',
   '<span class="command">secret</span>         Find the password',
