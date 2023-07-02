@@ -3,14 +3,14 @@
 var password = "Hhcfj4pd";
 var github = "https://github.com/advancedfx/advancedfx/releases/tag/v2.146.0";
 var email = 'mailto:billyollech@gmail.com';
-var discord = "https://discord.gg/proxyboost";
-var cash = "https://www.paypal.com/donate/?hosted_button_id=5HDVT6LP6K6S2";
+var discord = "https://discord.gg/CsYVn6SJ32";
+var cash = "https://www.paypal.com/donate/?hosted_button_id=GG48HG27HTFB6";
 var bitcoin = "bitcoin:1K7S67iJVtGBGc17UiCp9xwZ3xnPfPxvrE"
 var ethereum = "ethereum:0xAc18d9A4Bc75eA3E7d255f11f27D82872ea6FCfc@1"
 
 whois = [
   "<br>",
-  "Hi I am neo , I am a webdeveloper",
+  "Hi I am jc , I am a webdeveloper",
   
   "<br>"
 ];
@@ -23,8 +23,8 @@ whoami = [
 
 social = [
   "<br>",
-  'discord         <a href="' + discord + '" target="_blank">discord/neo' + "</a>",
-  'github         <a href="' + github + '" target="_blank">github/neo' + "</a>",
+  'discord         <a href="' + discord + '" target="_blank">discord/jc' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/jc' + "</a>",
   "<br>"
 ];
 
@@ -32,7 +32,7 @@ social = [
 
 donate = [
     "<br>",
-    'Cash         <a href="' + cash + '" target="_blank">sendcash/neo' + "</a>",
+    'Cash         <a href="' + cash + '" target="_blank">sendcash/jc' + "</a>",
     'Bitcoin         <a href="' + bitcoin + '" target="_blank">bitcoin/wallet' + "</a>",
     'Ethereum         <a href="' + ethereum + '" target="_blank">ethereum/wallet' + "</a>",
     "<br>"
@@ -47,13 +47,13 @@ secret = [
 
 projects = [
   "<br>",
-  "Most Projects are on Github, name: 00neo",
+  "Most Projects are on Github, name: juiceKode",
   "<br>"
 ];
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          neo?',
+  '<span class="command">whois</span>          jc?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">donatef</span>        All features you will get while donating',
   '<span class="command">social</span>         Display social networks',
@@ -69,7 +69,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">Connection:..neo-terminal...successfull </span>',
+  '<span class="index">Connection:..jc-terminal...successfull </span>',
   '<span class="color2">Welcome to the Terminal !</span>',
   '<span class="color2">±       −      √       π       ∈       ∉       ∋       ∞       ≈       ≠       ≤       ≥       ≅      ×       ÷       ·       •       ∠       °       ‰       ‾</span>',
   '<span class="color2">±       −      √       π       ∈       ∉       ∋       ∞       ≈       ≠       ≤       ≥       ≅      ×       ÷       ·       •       ∠       °       ‰       ‾</span>',
