@@ -4,8 +4,8 @@ body {
     min-height: 99%;
     width: 100%;
     min-width: 550px;
-    color: #18ff03;
-    text-shadow: 0 0 5px #18ff03;
+    color: #ff7403;
+    text-shadow: 0 0 5px #ff7403;
     background: #211D1B;
     font-family: cursor, monospace;
     overflow-x: hidden;
@@ -51,8 +51,8 @@ body {
   #command {
     cursor: text;
     height: 50px;
-    color: #18ff03;
-    text-shadow: 0 0 5px #18ff03; 
+    color: #ff7403;
+    text-shadow: 0 0 5px #ff7403; 
   }
   #liner {
     line-height: 1.3em;
@@ -62,7 +62,7 @@ body {
     opacity: 0;
   }
   #liner::before {
-    color:#18ff03;
+    color:#ff7403;
     content: "here:";
   }
   #liner.password::before {
@@ -102,17 +102,17 @@ body {
     }
   }
   .index {
-    color: #18ff03;
+    color: #ff7403;
   }
   .color2 {
-    color: #18ff03;
+    color: #ff7403;
   }
   .command {
-    color: #18ff03;
-    text-shadow: 0 0 5px #18ff03; 
+    color: #ff7403;
+    text-shadow: 0 0 5px#ff7403; 
   }
   .error {
-    color: #B89076;
+    color: #ff3d3d;
   }
   .white {
     color: #fff;
