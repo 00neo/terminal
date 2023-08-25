@@ -1,6 +1,6 @@
 
 
-var password = "Hhcfj4pd";
+var password = "luisollech";
 var github = "https://github.com/advancedfx/advancedfx/releases/tag/v2.146.0";
 var email = 'mailto:billyollech@gmail.com';
 var discord = "https://discord.gg/CsYVn6SJ32";
@@ -10,7 +10,7 @@ var ethereum = "ethereum:0xAc18d9A4Bc75eA3E7d255f11f27D82872ea6FCfc@1"
 
 whois = [
   "<br>",
-  "Hi I am jc , I am a webdeveloper",
+  "Hi I am luis Ollech , I am a webdeveloper",
   
   "<br>"
 ];
@@ -47,13 +47,13 @@ secret = [
 
 projects = [
   "<br>",
-  "Most Projects are on Github, name: juiceKode",
+  "Most Projects are on Github, name: luis",
   "<br>"
 ];
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          jc?',
+  '<span class="command">whois</span>          luis?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">donatef</span>        All features you will get while donating',
   '<span class="command">social</span>         Display social networks',
@@ -69,7 +69,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">Connection:..jc-terminal...successfull </span>',
+  '<span class="index">Connection:..luis-terminal...successfull </span>',
   '<span class="color2">Welcome to the Terminal !</span>',
   '<span class="color2">±       −      √       π       ∈       ∉       ∋       ∞       ≈       ≠       ≤       ≥       ≅      ×       ÷       ·       •       ∠       °       ‰       ‾</span>',
   '<span class="color2">±       −      √       π       ∈       ∉       ∋       ∞       ≈       ≠       ≤       ≥       ≅      ×       ÷       ·       •       ∠       °       ‰       ‾</span>',
